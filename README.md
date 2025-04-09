@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 # Hi, I'm Marky3012!
 
 Welcome to my GitHub profile!
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2941099" style='border:none;'></iframe>
+[Visit my TryHackMe Profile](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2941099)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/MARCUS.png" alt="Your Image Badge" />
