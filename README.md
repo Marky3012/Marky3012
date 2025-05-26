@@ -60,4 +60,5 @@ I'm currently upskilling using **TryHackMe**, where I solve real-world cybersecu
 > “I believe in learning by doing, and cybersecurity is my next frontier.” 🧩
 
 [Visit my TryHackMe Profile](https://tryhackme.com/p/MARCUS)
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/MARCUS.png" alt="Your Image Badge" />
